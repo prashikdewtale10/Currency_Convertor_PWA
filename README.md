@@ -2,10 +2,9 @@
 ```
  - it is the Implemention of Currency Convertion API
  - PWA is created by Simple Javascript Service Worker
- - Live Demo 
-
-
+ 
 ```
+### [Live Demo](https://prashikdewtale10.github.io/Currency_Convertor_PWA/)
 ```markdown
 Syntax highlighted code block
 
