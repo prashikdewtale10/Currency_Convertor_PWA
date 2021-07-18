@@ -5,6 +5,8 @@
  
 ```
 ### [Live Demo](https://prashikdewtale10.github.io/Currency_Convertor_PWA/)
+
+### [Preview](https://github.com/prashikdewtale10/Currency_Convertor_PWA/blob/main/currency_convertor_app.jpg)
 ```markdown
 Syntax highlighted code block
 
